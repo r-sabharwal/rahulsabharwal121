@@ -12,9 +12,11 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/redux.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/npm.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/material-ui.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/android-os.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/github--v1.png"/></code>
