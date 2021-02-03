@@ -22,5 +22,5 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/github--v1.png"/></code>
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsabharwal121&show_icons=true)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=r-sabharwal&show_icons=true)
 
