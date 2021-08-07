@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, This is Rahul 👋 </h1>
+<h1 align="center"> Hey there, I am Rahul 👋 </h1>
 
 ![Profile views](https://gpvc.arturio.dev/sbhrwlr)  
 - 🔭 I’m currently working on MERN 
