@@ -1,5 +1,6 @@
 <h1 align="center"> Hey there, This is Rahul 👋 </h1>
 
+![Profile views](https://gpvc.arturio.dev/sbhrwlr)  
 - 🔭 I’m currently working on MERN 
 - 🚀 I’m currently ramping up my knowledge in Algorithms
 - 🤔 I’m looking for help with Node.js
@@ -36,6 +37,4 @@
 ### 📈 **Activity Graph**
 
 ![ github activity graph](https://activity-graph.herokuapp.com/graph?username=sbhrwlr&theme=github&area=true)
-
-![Profile views](https://gpvc.arturio.dev/sbhrwlr)  
 	
