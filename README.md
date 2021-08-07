@@ -1,4 +1,4 @@
-### Hey there, This is Rahul 👋
+<h1 align="center"> Hey there, This is Rahul 👋 </h1>
 
 
 - 🔭 I’m currently working on MERN 
