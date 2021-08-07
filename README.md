@@ -6,7 +6,8 @@
 - 📫 How to reach me: [rahulsabharwal2000@gmail.com](mailto:rahulsabharwal2000@gmail.com)
 
 
-
+<hr>
+### 👨‍💻 **Technologies**
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
