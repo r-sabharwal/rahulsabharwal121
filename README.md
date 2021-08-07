@@ -9,7 +9,7 @@
 
 <hr>
 
-### 📈 **Github Stats**
+### 👨‍💻 **Technology**
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
