@@ -1,10 +1,9 @@
 <h1 align="center"> Hey there, This is Rahul 👋 </h1>
 
-
-<p align="center">🔭 I’m currently working on MERN </p>
-<p align="center">🚀 I’m currently ramping up my knowledge in Algorithms </p>
-<p align="center">🤔 I’m looking for help with Node.js </p>
-<p align="center">📫 How to reach me: [rahulsabharwal2000@gmail.com](mailto:rahulsabharwal2000@gmail.com) </p>
+🔭 I’m currently working on MERN 
+🚀 I’m currently ramping up my knowledge in Algorithms
+🤔 I’m looking for help with Node.js </p>
+📫 How to reach me: [rahulsabharwal2000@gmail.com](mailto:rahulsabharwal2000@gmail.com)
 
 
 
