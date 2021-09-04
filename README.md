@@ -31,9 +31,9 @@
 <a href="https://github.com/sbhrwlr">
 <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=sbhrwlr&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
   </a>
-</div>
+<!-- </div>
 
 ### 📈 **Activity Graph**
 
-![ github activity graph](https://activity-graph.herokuapp.com/graph?username=sbhrwlr&theme=github&area=true)
+![ github activity graph](https://activity-graph.herokuapp.com/graph?username=sbhrwlr&theme=github&area=true) -->
 	
