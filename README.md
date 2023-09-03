@@ -1,6 +1,5 @@
 <h1 align="center"> Hey there, I am Rahul 👋 </h1>
 
-![Profile views](https://gpvc.arturio.dev/sbhrwlr)  
 - 🔭 I’m currently working on MERN 
 - 🚀 I’m currently ramping up my knowledge in Algorithms
 - 🤔 I’m looking for help with Node.js
@@ -26,14 +25,3 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/github--v1.png"/></code>
 <hr>
 
-### 📈 **Github Stats**
-<div float= "left">
-<a href="https://github.com/sbhrwlr">
-<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=sbhrwlr&layout=compact&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-  </a>
-<!-- </div>
-
-### 📈 **Activity Graph**
-
-![ github activity graph](https://activity-graph.herokuapp.com/graph?username=sbhrwlr&theme=github&area=true) -->
-	
